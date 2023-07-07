@@ -54,7 +54,7 @@ gaApp
 
         const intentAdded = await df.createIntent(intentName, trainingPhrases, [aiResp]);
         console.log('\n[Default Fallback handler] intentAdded: ', JSON.stringify(intentAdded));
-
+        console.log(aiResp);
         return conv.ask(aiResp);
       }
 
