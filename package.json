@@ -20,7 +20,7 @@
     "nodemon": "^2.0.2",
     "openai": "^3.2.1",
     "google-gax": "3.6.0",
-    "google-cloud/functions-framework": "3.3.0"
+    "@google-cloud/functions-framework": "3.3.0"
   },
   "devDependencies": {
     "eslint": "^6.6.0",
