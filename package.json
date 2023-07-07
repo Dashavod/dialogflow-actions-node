@@ -18,7 +18,8 @@
     "express": "^4.17.1",
     "gpt-3-encoder": "^1.1.4",
     "nodemon": "^2.0.2",
-    "openai": "^3.2.1"
+    "openai": "^3.2.1",
+    "google-gax":"3.6.0 "
   },
   "devDependencies": {
     "eslint": "^6.6.0",
